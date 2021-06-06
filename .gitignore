@@ -64,3 +64,6 @@ venv/
 ENV/
 .spyderproject
 .ropeproject
+
+draft.py
+test_parametrization_something.py
